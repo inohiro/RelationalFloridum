@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalFloridum-GUI", "RelationalFloridum-GUI.csproj", "{6E6F8287-80B4-4869-98C6-7662423D0654}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalFloridum-Lib", "..\RelationalFloridum-Lib\RelationalFloridum-Lib.csproj", "{842B7D47-F5BC-4AC6-B1D2-9CE6F0A0F215}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationalFloridum-Lib", "..\Lib\RelationalFloridum-Lib.csproj", "{842B7D47-F5BC-4AC6-B1D2-9CE6F0A0F215}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
