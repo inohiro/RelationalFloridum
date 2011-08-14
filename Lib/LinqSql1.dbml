@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="FloridumDb" Class="LinqSql1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=inohiro-vmwin\SQLEXPRESS;Initial Catalog=FloridumDb;Integrated Security=True" SettingsObjectName="RelationalFloridum_Lib.Properties.Settings" SettingsPropertyName="FloridumDbConnectionString" Provider="System.Data.SqlClient" />
+</Database>

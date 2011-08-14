@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.exe
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.pdb
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-Lib.dll
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-Lib.pdb
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\RelationalFloridum_GUI.Form1.resources
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\RelationalFloridum_GUI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.exe
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.pdb
+C:\Documents and Settings\Administrator\デスクトップ\Local\Visual Studio 2008\Projects\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.exe.config
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.exe.config
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.exe
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.pdb
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.exe
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-GUI.pdb
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-Lib.dll
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\bin\Debug\RelationalFloridum-Lib.pdb
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\RelationalFloridum_GUI.Form1.resources
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\RelationalFloridum_GUI.Properties.Resources.resources
+C:\Documents and Settings\Administrator\デスクトップ\特別演習\neo\Relational-Floridum\Integrated-GUI\RelationalFloridum-GUI\obj\Debug\RelationalFloridum-GUI.csproj.GenerateResource.Cache
